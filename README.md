@@ -1,2 +1,2 @@
 # balls
-An AUR helper written in bash.
+An AUR helper for downloading aur helpers written in bash.
